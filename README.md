@@ -8,7 +8,7 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Load and preprocess dataset by selecting features and target values, converting to float arrays.
+1. Load and preprocess dataset by selecting features and target values, converting to float arrays.,
 2. Standardize features and target using StandardScaler.
 3. Train linear regression model using gradient descent to optimize weights (theta).
 4. Standardize new input data and predict output using learned weights.,
@@ -58,17 +58,23 @@ print(f"Predicted value: {pre}")
 DATA INFORMATION
 ```
 <img width="763" height="264" alt="image" src="https://github.com/user-attachments/assets/94672ee8-a1fa-49c5-a5e0-b77805a972c4" />
+
 ```
 VALUE OF X:
 ```
+
 <img width="243" height="715" alt="image" src="https://github.com/user-attachments/assets/fd87d6d7-e7a1-4128-bfac-081e1ada6083" />
+
 ```
 VALUE OF X1_SCALED:
 ```
+
 <img width="352" height="715" alt="image" src="https://github.com/user-attachments/assets/b9dcf9ea-2880-4de2-b441-def7f15b1864" />
+
 ```
 PREDICTED VALUE:
 ```
+
 <img width="345" height="67" alt="image" src="https://github.com/user-attachments/assets/123e3ae7-9e8c-4dea-9079-87e05bb6b497" />
 
 ## Result:
