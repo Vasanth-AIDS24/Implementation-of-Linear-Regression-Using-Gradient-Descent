@@ -11,7 +11,7 @@ To write a program to predict the profit of a city using the linear regression m
 1. Load and preprocess dataset by selecting features and target values, converting to float arrays.
 2. Standardize features and target using StandardScaler.
 3. Train linear regression model using gradient descent to optimize weights (theta).
-4. Standardize new input data and predict output using learned weights.
+4. Standardize new input data and predict output using learned weights.,
 5. Inverse-transform the prediction to original scale and display result.
 
 ## Program:
