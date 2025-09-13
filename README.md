@@ -59,16 +59,19 @@ DATA INFORMATION
 ```
 
 <img width="763" height="264" alt="image" src="https://github.com/user-attachments/assets/94672ee8-a1fa-49c5-a5e0-b77805a972c4" />
+
 ```
 VALUE OF X:
 ```
 
 <img width="243" height="715" alt="image" src="https://github.com/user-attachments/assets/fd87d6d7-e7a1-4128-bfac-081e1ada6083" />
+
 ```
 VALUE OF X1_SCALED:
 ```
 
 <img width="352" height="715" alt="image" src="https://github.com/user-attachments/assets/b9dcf9ea-2880-4de2-b441-def7f15b1864" />
+
 ```
 PREDICTED VALUE:
 ```
