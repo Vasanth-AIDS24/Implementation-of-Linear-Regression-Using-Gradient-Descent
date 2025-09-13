@@ -49,7 +49,7 @@ prediction=np.dot(np.append(1,new_Scaled),theta)
 prediction=prediction.reshape(-1,1)
 pre=scaler.inverse_transform(prediction)
 print(prediction)
-print(f"Predicted value: {pre}")
+print(f"Predicted value: {pre}"),
 */
 ```
 
